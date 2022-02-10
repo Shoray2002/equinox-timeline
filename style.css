@@ -52,6 +52,14 @@ h6 {
 .date {
   color: #d7b400 !important;
 }
+.header {
+  color: #008ad3;
+  font-size: 4rem;
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+  padding: 0 20px 20px auto;
+  word-wrap: normal;
+}
 .wrapper {
   margin: 0 auto;
   width: 100%;
@@ -63,7 +71,11 @@ h6 {
 
 .about-timeline {
   background-color: #000000;
-  padding: 140px 0 125px;
+  padding: 20px 0 125px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .timeline-box h6 {
@@ -394,7 +406,7 @@ h6 {
     font-size: 50px;
   }
   .about-timeline {
-    padding: 120px 0 100px;
+    padding: 40px 0 100px;
   }
   .timeline-box p {
     font-size: 24px;
@@ -403,7 +415,7 @@ h6 {
 
 @media screen and (max-width: 1440px) {
   .about-timeline {
-    padding: 100px 0 80px;
+    padding: 40px 0 80px;
   }
   .start-point h4 {
     font-size: 15px;
@@ -437,7 +449,7 @@ h6 {
 
 @media screen and (max-width: 1199px) {
   .about-timeline {
-    padding: 90px 0 60px;
+    padding: 50px 0 60px;
   }
   .timeline-box h6 {
     font-size: 34px;
@@ -531,7 +543,7 @@ h6 {
     margin-bottom: 0;
   }
   .about-timeline {
-    padding: 80px 0;
+    padding: 50px 0;
   }
   .timeline-box::after {
     -webkit-transform: translate(-100%, 100%) rotate(180deg);
