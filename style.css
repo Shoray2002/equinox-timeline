@@ -53,7 +53,7 @@ h6 {
   color: #d7b400 !important;
 }
 .header {
-  color: #008ad3;
+  color: #64c9ff;
   font-size: 4rem;
   font-weight: 700;
   font-family: "Inter", sans-serif;
@@ -70,7 +70,11 @@ h6 {
 }
 
 .about-timeline {
+  background-image: url("./2.jpg") ;
   background-color: #000000;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   padding: 20px 0 125px;
   display: flex;
   align-items: center;
@@ -84,7 +88,7 @@ h6 {
   color: #8e53fd;
   font-weight: 700;
   font-family: "Poppins", sans-serif;
-  background-color: #000000;
+  background-color: #060610da;
   position: relative;
   z-index: 1;
   display: inline-block;
@@ -277,7 +281,8 @@ h6 {
 .timeline-box-wrap {
   padding: 45px 0px 0;
   position: relative;
-  background: #000000; /*min-height: 318px;*/
+  /* background: #00000000; min-height: 318px; */
+  /* neon border */
   padding: 0;
   margin-bottom: 90px;
 }
