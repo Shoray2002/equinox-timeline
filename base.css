@@ -1,8 +1,7 @@
-
 .hover-reveal {
   position: fixed;
-  width: 200px;
-  height: 150px;
+  width: 250px;
+  height: 200px;
   top: 0;
   left: 0;
   pointer-events: none;

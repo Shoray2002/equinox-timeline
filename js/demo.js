@@ -2963,73 +2963,73 @@
     }
   }
 
-  // [...document.querySelectorAll('[data-fx="1"] > a, a[data-fx="1"]')].forEach(link => new HoverImgFx1(link));
+  [...document.querySelectorAll('[data-fx="1"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="1"]')].forEach(link => new HoverImgFx1(link));
   [
     ...document.querySelectorAll(
       '[data-fx="2"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="2"]'
     ),
   ].forEach((link) => new HoverImgFx2(link));
-  [...document.querySelectorAll('[data-fx="3"] > a, a[data-fx="3"]')].forEach(
+  [...document.querySelectorAll('[data-fx="3"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="3"]')].forEach(
     (link) => new HoverImgFx3(link)
   );
-  [...document.querySelectorAll('[data-fx="4"] > a, a[data-fx="4"]')].forEach(
+  [...document.querySelectorAll('[data-fx="4"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="4"]')].forEach(
     (link) => new HoverImgFx4(link)
   );
-  [...document.querySelectorAll('[data-fx="5"] > a, a[data-fx="5"]')].forEach(
+  [...document.querySelectorAll('[data-fx="5"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="5"]')].forEach(
     (link) => new HoverImgFx5(link)
   );
-  [...document.querySelectorAll('[data-fx="6"] > a, a[data-fx="6"]')].forEach(
+  [...document.querySelectorAll('[data-fx="6"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="6"]')].forEach(
     (link) => new HoverImgFx6(link)
   );
-  [...document.querySelectorAll('[data-fx="7"] > a, a[data-fx="7"]')].forEach(
+  [...document.querySelectorAll('[data-fx="7"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="7"]')].forEach(
     (link) => new HoverImgFx7(link)
   );
-  [...document.querySelectorAll('[data-fx="8"] > a, a[data-fx="8"]')].forEach(
+  [...document.querySelectorAll('[data-fx="8"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="8"]')].forEach(
     (link) => new HoverImgFx8(link)
   );
-  [...document.querySelectorAll('[data-fx="9"] > a, a[data-fx="9"]')].forEach(
+  [...document.querySelectorAll('[data-fx="9"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="9"]')].forEach(
     (link) => new HoverImgFx9(link)
   );
-  [...document.querySelectorAll('[data-fx="10"] > a, a[data-fx="10"]')].forEach(
+  [...document.querySelectorAll('[data-fx="10"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="10"]')].forEach(
     (link) => new HoverImgFx10(link)
   );
-  [...document.querySelectorAll('[data-fx="11"] > a, a[data-fx="11"]')].forEach(
+  [...document.querySelectorAll('[data-fx="11"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="11"]')].forEach(
     (link) => new HoverImgFx11(link)
   );
-  [...document.querySelectorAll('[data-fx="12"] > a, a[data-fx="12"]')].forEach(
+  [...document.querySelectorAll('[data-fx="12"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="12"]')].forEach(
     (link) => new HoverImgFx12(link)
   );
-  [...document.querySelectorAll('[data-fx="13"] > a, a[data-fx="13"]')].forEach(
+  [...document.querySelectorAll('[data-fx="13"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="13"]')].forEach(
     (link) => new HoverImgFx13(link)
   );
-  [...document.querySelectorAll('[data-fx="14"] > a, a[data-fx="14"]')].forEach(
+  [...document.querySelectorAll('[data-fx="14"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="14"]')].forEach(
     (link) => new HoverImgFx14(link)
   );
-  [...document.querySelectorAll('[data-fx="15"] > a, a[data-fx="15"]')].forEach(
+  [...document.querySelectorAll('[data-fx="15"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="15"]')].forEach(
     (link) => new HoverImgFx15(link)
   );
-  [...document.querySelectorAll('[data-fx="16"] > a, a[data-fx="16"]')].forEach(
+  [...document.querySelectorAll('[data-fx="16"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="16"]')].forEach(
     (link) => new HoverImgFx16(link)
   );
-  [...document.querySelectorAll('[data-fx="17"] > a, a[data-fx="17"]')].forEach(
+  [...document.querySelectorAll('[data-fx="17"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="17"]')].forEach(
     (link) => new HoverImgFx17(link)
   );
-  [...document.querySelectorAll('[data-fx="18"] > a, a[data-fx="18"]')].forEach(
+  [...document.querySelectorAll('[data-fx="18"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="18"]')].forEach(
     (link) => new HoverImgFx18(link)
   );
-  [...document.querySelectorAll('[data-fx="19"] > a, a[data-fx="19"]')].forEach(
+  [...document.querySelectorAll('[data-fx="19"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="19"]')].forEach(
     (link) => new HoverImgFx19(link)
   );
-  [...document.querySelectorAll('[data-fx="20"] > a, a[data-fx="20"]')].forEach(
+  [...document.querySelectorAll('[data-fx="20"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="20"]')].forEach(
     (link) => new HoverImgFx20(link)
   );
-  [...document.querySelectorAll('[data-fx="21"] > a, a[data-fx="21"]')].forEach(
+  [...document.querySelectorAll('[data-fx="21"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="21"]')].forEach(
     (link) => new HoverImgFx21(link)
   );
-  [...document.querySelectorAll('[data-fx="22"] > a, a[data-fx="22"]')].forEach(
+  [...document.querySelectorAll('[data-fx="22"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="22"]')].forEach(
     (link) => new HoverImgFx22(link)
   );
-  [...document.querySelectorAll('[data-fx="23"] > a, a[data-fx="23"]')].forEach(
+  [...document.querySelectorAll('[data-fx="23"] > .timeline-box-wrap, .timeline-box-wrap[data-fx="23"]')].forEach(
     (link) => new HoverImgFx23(link)
   );
 
